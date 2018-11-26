@@ -1,6 +1,10 @@
 # Developer Links  
 Easy access to helpful developer links  
 
+## Concepts  
+
+[Joel Spolsky on Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+
 ## Helpful Python links  
 [Installing PycURL on MacOS High Sierra](https://cscheng.info/2018/01/26/installing-pycurl-on-macos-high-sierra.html) by Chi Shang Cheng  
 
