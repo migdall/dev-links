@@ -10,6 +10,8 @@ Easy access to helpful developer links
 [7 Patch Command Examples to Apply Diff Patch Files in Linux](https://www.thegeekstuff.com/2014/12/patch-command-examples)  
 by Lakshmanan Ganapathy  
 
+[What should I do when I get 'There are stopped jobs' error?](https://askubuntu.com/questions/431606/what-should-i-do-when-i-get-there-are-stopped-jobs-error)
+
 ## Seedy Internet Underbelly  
 [DEF CON 26 Voting Village](https://www.defcon.org/images/defcon-26/DEF%20CON%2026%20voting%20village%20report.pdf)  
 
