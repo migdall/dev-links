@@ -21,3 +21,4 @@ by Lakshmanan Ganapathy
 
 ## Key coders  
 [Larry Wall](http://www.wall.org/~larry/)  
+[Donald Knuth](https://www-cs-faculty.stanford.edu/~knuth/)
