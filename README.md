@@ -22,6 +22,10 @@ by Max Antonucci
 ## Ubuntu
 [What should I do when I get 'There are stopped jobs' error?](https://askubuntu.com/questions/431606/what-should-i-do-when-i-get-there-are-stopped-jobs-error)
 
+## Forecasting  
+[The top 10 companies and cities for blockchain developers](https://www.computerworld.com/article/3385052/the-top-10-companies-and-cities-for-blockchain-developers.html)  
+
+
 ## Seedy Internet Underbelly  
 [DEF CON 26 Voting Village](https://www.defcon.org/images/defcon-26/DEF%20CON%2026%20voting%20village%20report.pdf)  
 
