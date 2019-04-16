@@ -3,7 +3,11 @@ Easy access to helpful developer links
 
 ## Concepts  
 
-[Joel Spolsky on Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+[Joel Spolsky on Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)  
+[Refresh token with JWT authentication in Node.js](https://solidgeargroup.com/refresh-token-with-jwt-authentication-node-js)  
+by David Vicente  
+[Web Components will replace your frontend framework](https://www.dannymoerkerke.com/blog/web-components-will-replace-your-frontend-framework)  
+by Danny Moerkerke  
 
 ## Helpful Python links  
 [Installing PycURL on MacOS High Sierra](https://cscheng.info/2018/01/26/installing-pycurl-on-macos-high-sierra.html) by Chi Shang Cheng  
