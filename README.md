@@ -4,6 +4,7 @@ Easy access to helpful developer links
 ## Concepts  
 
 [Joel Spolsky on Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)  
+[Matrix and Jitsi](https://matrix.org/blog/2020/04/06/running-your-own-secure-communication-service-with-matrix-and-jitsi)  
 [Refresh token with JWT authentication in Node.js](https://solidgeargroup.com/refresh-token-with-jwt-authentication-node-js)  
 by David Vicente  
 [Web Components will replace your frontend framework](https://www.dannymoerkerke.com/blog/web-components-will-replace-your-frontend-framework)  
