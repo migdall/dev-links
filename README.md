@@ -36,4 +36,10 @@ by Max Antonucci
 
 ## Key coders  
 [Larry Wall](http://www.wall.org/~larry/)  
-[Donald Knuth](https://www-cs-faculty.stanford.edu/~knuth/)
+[Donald Knuth](https://www-cs-faculty.stanford.edu/~knuth/)  
+Guido van Rossum  
+
+## Personal quotes  
+* "Life is a series of meetings."  
+* "Run far and run free."  
+
