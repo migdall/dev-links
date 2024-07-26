@@ -15,6 +15,9 @@ by Danny Moerkerke
 
 [Navigating to Class, File or Symbol by Name in PyCharm](https://www.jetbrains.com/help/pycharm/navigating-to-class-file-or-symbol-by-name.html)  
 
+## Helpful VSCode links  
+[How to set per-filetype tab size in VS Code?](https://stackoverflow.com/questions/34247939/how-to-set-per-filetype-tab-size-in-vs-code)  
+
 ## Helpful Command-line links  
 [7 Patch Command Examples to Apply Diff Patch Files in Linux](https://www.thegeekstuff.com/2014/12/patch-command-examples)  
 by Lakshmanan Ganapathy  
